@@ -4,7 +4,6 @@ function checkAge(age) {
     } 
     else if (age < 13) {
         console.log("You are a child");
-        console.log("Thilina");
     }
     else {
         console.log("You are a minor");
