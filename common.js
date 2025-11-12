@@ -8,3 +8,8 @@ function checkAge(age) {
 
 checkAge(20);
 checkAge(15);
+checkAge(15);
+checkAge(15);
+checkAge(15);
+checkAge(15);
+checkAge(15);
