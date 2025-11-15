@@ -1,12 +1,14 @@
 function checkAge(age) {
-  if (age >= 18) {
-    console.log("You are an adult");
-  } else if (age < 13) {
-    console.log("Ravindu");
-    console.log("You are a child");
-  } else {
-    console.log("You are a minor");
-  }
+    if (age >= 18) {
+        console.log("You are an adult");
+    } 
+    else if (age < 13) {
+        console.log("You are a child");
+    }
+    else {
+        console.log("You are a minor");
+    }
+    
 }
 
 checkAge(20);
