@@ -21,7 +21,7 @@ async function demo() {
     console.log('2 + 3 =', add(2, 3));
     console.log('4 * 5 =', multiply(4, 5));
     console.log('Waiting 1 second...');
-    console.log('Waiting 2 second...');
+    console.log('Waiting 3 second...');
     await delay(1000);
     console.log('Done.');
 }
